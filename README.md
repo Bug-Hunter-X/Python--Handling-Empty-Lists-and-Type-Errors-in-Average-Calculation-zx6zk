@@ -1,0 +1,1 @@
+This repository contains example code demonstrating a common error in Python related to average calculation. The `bug.py` file shows the flawed code, which does not correctly handle empty lists or lists containing non-numeric elements, leading to runtime errors.  The solution, provided in `bugSolution.py`, demonstrates robust error handling to prevent these issues.
